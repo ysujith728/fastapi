@@ -4,7 +4,7 @@
 <p align="center">
     <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
 </p>
-<p align="center">
+<p align="center"> 
 <a href="https://github.com/fastapi/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
     <img src="https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=master" alt="Test">
 </a>
